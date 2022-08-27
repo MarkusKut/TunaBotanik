@@ -1,0 +1,562 @@
+"","Datum","Daily.Nr.","Probenummer","Objektbezeichnung","Fundlage","Lage","Taxon","Name","Resttyp","Erhaltungstyp","Season","Himmelsrichtung","Art"
+"1","10.12.2018","10.12.2018-118","TG18_MS1_CS_093","Kerne","MS2, M003 Ostseite","MS2","Acacia nilotica","Nilakazie","Frucht","vertrocknet","2018","Westen","wildwachsende Pflanzen"
+"2","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Acacia nilotica","Nilakazie","Frucht","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"3","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Acacia nilotica","Nilakazie","Frucht","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"4","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Sueden","Gemüse"
+"5","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Sueden","Gemüse"
+"6","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Sueden","Gemüse"
+"7","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Sueden","Gemüse"
+"8","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"9","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"10","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"11","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"12","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"13","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"14","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"15","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"16","13.12.2018","13.12.2018-135","TG18_MS1_CS_226","Hülsen und Zwiebelschalen","MS1, Nordwand aussen, Korbbefund","MS1","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Norden","Gemüse"
+"17","13.12.2018","13.12.2018-135","TG18_MS1_CS_226","Hülsen und Zwiebelschalen","MS1, Nordwand aussen, Korbbefund","MS1","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Norden","Gemüse"
+"18","13.12.2018","13.12.2018-145","TG18_MS1_CS_231","Frucht, Kerne, Zwiebelschale","MS1, Suedwand aussen","MS1","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Sueden","Gemüse"
+"19","13.12.2018","13.12.2018-162","TG18_MS1_CS_239","Früchte, Kerne, Zwiebelschale","MS2, Westen von M005, M006, M008","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Westen","Gemüse"
+"20","16.12.2018","16.12.2018-118","TG18_MS1_CS_294","Zwiebelschale","MS2, zw. M003 und M008","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"21","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Norden","Gemüse"
+"22","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Norden","Gemüse"
+"23","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Norden","Gemüse"
+"24","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Norden","Gemüse"
+"25","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Westen","Gemüse"
+"26","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"27","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Nord-Osten","Gemüse"
+"28","18.12.2018","18.12.2018-119","TG18_MS1_CS_351","Botanikprobe","MS1, Sued von Suedwand","MS1","Allium cf. cepa","Küchenzwiebel","Epidermis","vertrocknet","2018","Sueden","Gemüse"
+"29","16.12.2018","16.12.2018-131","TG18_MS1_CS_302","Blätter","MS2, Osten von M006","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Osten","Gemüse"
+"30","17.12.2018","17.12.2018-126","TG18_MS1_CS_333","Knoblauch","MS2, Sandschicht zw. bot. Befund und Matte","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"31","17.12.2018","17.12.2018-126","TG18_MS1_CS_333","Knoblauch","MS2, Sandschicht zw. bot. Befund und Matte","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"32","17.12.2018","17.12.2018-126","TG18_MS1_CS_333","Knoblauch","MS2, Sandschicht zw. bot. Befund und Matte","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"33","18.12.2018","18.12.2018-106","TG18_MS1_CS_343","Probepflanzen","MS2, S1 + S2","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"34","18.12.2018","18.12.2018-106","TG18_MS1_CS_343","Probepflanzen","MS2, S1 + S2","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"35","18.12.2018","18.12.2018-106","TG18_MS1_CS_343","Probepflanzen","MS2, S1 + S2","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"36","18.12.2018","18.12.2018-106","TG18_MS1_CS_343","Probepflanzen","MS2, S1 + S2","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"37","18.12.2018","18.12.2018-106","TG18_MS1_CS_343","Probepflanzen","MS2, S1 + S2","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"38","18.12.2018","18.12.2018-106","TG18_MS1_CS_343","Probepflanzen","MS2, S1 + S2","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"39","18.12.2018","18.12.2018-106","TG18_MS1_CS_343","Probepflanzen","MS2, S1 + S2","MS2","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"40","18.12.2018","18.12.2018-130","TG18_MS1_CS_356","Früchte","MS1, Nordwand (Nord-Ost-Ecke)","MS1","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Nord-Osten","Gemüse"
+"41","18.12.2018","18.12.2018-130","TG18_MS1_CS_356","Früchte","MS1, Nordwand (Nord-Ost-Ecke)","MS1","Allium sativum","Knoblauch","Wurzel","vertrocknet","2018","Nord-Osten","Gemüse"
+"42","12.12.2018","12.12.2018-112","TG18_MS1_CS_177","Brotstück (?)","MS2, Lehmziegelverbruch (Sued-Ost-Ecke)","MS2","Brei/Gebaeck/Fruchtfleisch","Brei/Gebaeck/Fruchtfleisch","Brei/Gebäck/Fruchtfleisch","vertrocknet","2018","Osten",NA
+"43","09.12.2018","9.12.2018-166","TG18_MS1_CS_074","Botanische Reste","MS2, Suederweiterung X2, obere Schicht","MS2","Brei/Gebaeck/Fruchtfleisch","Brei/Gebaeck/Fruchtfleisch","Brei/Gebäck/Fruchtfleisch","verkohlt","2018","Sueden",NA
+"44","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2","Brei/Gebaeck/Fruchtfleisch","Brei/Gebaeck/Fruchtfleisch","Brei/Gebäck/Fruchtfleisch","verkohlt","2018","Westen",NA
+"45","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Brei/Gebaeck/Fruchtfleisch","Brei/Gebaeck/Fruchtfleisch","Brei/Gebäck/Fruchtfleisch","verkohlt","2018","Westen",NA
+"46","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Brei/Gebaeck/Fruchtfleisch","Brei/Gebaeck/Fruchtfleisch","Brei/Gebäck/Fruchtfleisch","verkohlt","2018","Westen",NA
+"47","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Brei/Gebaeck/Fruchtfleisch","Brei/Gebaeck/Fruchtfleisch","Brei/Gebäck/Fruchtfleisch","verkohlt","2018","Westen",NA
+"48","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Brei/Gebaeck/Fruchtfleisch","Brei/Gebaeck/Fruchtfleisch","Brei/Gebäck/Fruchtfleisch","verkohlt","2018","Westen",NA
+"49","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Cucurbitaceae sp.","Kürbisgewächs","Stiel","vertrocknet","2018","Sueden","Gemüse"
+"50","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Cyperus cf. papyrus","Papyrus","Halm","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"51","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Cyperaceae sp.","Riedgras","Wurzel","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"52","16.12.2018","16.12.2018-122","TG18_MS1_CS_297","Probe","MS2, zw. M004 und M008","MS2","Cyperaceae sp.","Riedgras","Wurzel","vertrocknet","2018","Nord-Westen","wildwachsende Pflanzen"
+"53","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Nord-Westen","Gemüse"
+"54","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Nord-Westen","Gemüse"
+"55","09.12.2018","9.12.2018-146","TG18_MS1_CS_060","Frucht (ausgetrocknet)","MS2, Westen von M006","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Nord-Westen","Gemüse"
+"56","09.12.2018","9.12.2018-148","TG18_MS1_CS_061","Frucht (ausgetrocknet)","MS2, zw. M004 und M003","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"57","10.12.2018","10.12.2018-124","TG18_MS1_CS_097","Holz und Frucht","MS1, Nordwand in Korbbefund","MS1","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Norden","Gemüse"
+"58","10.12.2018","10.12.2018-134","TG18_MS1_CS_105","Samen","MS2, Osten von M004, ueber Matte B","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Westen","Gemüse"
+"59","10.12.2018","10.12.2018-143","TG18_MS1_CS_110","Wurzel","MS2, Osten von M005, M006, M007","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Nord-Osten","Gemüse"
+"60","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Sueden","Gemüse"
+"61","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Sueden","Gemüse"
+"62","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Sueden","Gemüse"
+"63","13.12.2018","13.12.2018-145","TG18_MS1_CS_231","Frucht, Kerne, Zwiebelschale","MS1, Suedwand aussen","MS1","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Sueden","Gemüse"
+"64","15.12.2018","15.12.2018-132","TG18_MS1_CS_270","Kerne","MS1, Suedwand aussen","MS1","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Sueden","Gemüse"
+"65","15.12.2018","15.12.2018-132","TG18_MS1_CS_270","Kerne","MS1, Suedwand aussen","MS1","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Sueden","Gemüse"
+"66","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Norden","Gemüse"
+"67","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Norden","Gemüse"
+"68","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Nord-Osten","Gemüse"
+"69","19.12.2018","19.12.2018-110","TG18_MS1_CS_375","Kern und Frucht","MS2, auf Matte A, im Sueden","MS2","Cyperus rotundus","Nussgras","Wurzel","vertrocknet","2018","Sueden","Gemüse"
+"70","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Cyperus rotundus","Nussgras","Wurzel","verkohlt","2018","Nord-Westen","Gemüse"
+"71","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Cyperus rotundus","Nussgras","Wurzel","verkohlt","2018","Sueden","Gemüse"
+"72","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Cyperus rotundus","Nussgras","Wurzel","verkohlt","2018","Sueden","Gemüse"
+"73","13.12.2018","13.12.2018-146","TG18_MS1_CS_232","Holz","MS1, Suedwand aussen","MS1","Desmostachya bipinnata","Ägyptisches Halfagras","Halm","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"74","13.12.2018","13.12.2018-146","TG18_MS1_CS_232","Holz","MS1, Suedwand aussen","MS1","Desmostachya bipinnata","Ägyptisches Halfagras","Halm","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"75","13.12.2018","13.12.2018-146","TG18_MS1_CS_232","Holz","MS1, Suedwand aussen","MS1","Desmostachya bipinnata","Ägyptisches Halfagras","Halm","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"76","13.12.2018","13.12.2018-146","TG18_MS1_CS_232","Holz","MS1, Suedwand aussen","MS1","Desmostachya bipinnata","Ägyptisches Halfagras","Halm","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"77","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"78","09.12.2018","9.12.2018-166","TG18_MS1_CS_074","Botanische Reste","MS2, Suederweiterung X2, obere Schicht","MS2","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Sueden","Früchte"
+"79","10.12.2018","10.12.2018-165","TG18_MS1_CS_121","Botanische Reste","MS2, kl. Raum Osten von M003","MS2","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"80","13.12.2018","13.12.2018-162","TG18_MS1_CS_239","Früchte, Kerne, Zwiebelschale","MS2, Westen von M005, M006, M008","MS2","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"81","13.12.2018","13.12.2018-183","TG18_MS1_CS_248","Holzstück und Palmenfrüchte","MS1, Ostwand aussen","MS1","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Osten","Früchte"
+"82","13.12.2018","13.12.2018-183","TG18_MS1_CS_248","Holzstück und Palmenfrüchte","MS1, Ostwand aussen","MS1","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Osten","Früchte"
+"83","16.12.2018","16.12.2018-165","TG18_MS1_CS_320","Holz, Früchte, Dompalmenfrucht","MS2, Sued-Ost von M009","MS2","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"84","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Westen","Früchte"
+"85","18.12.2018","18.12.2018-106","TG18_MS1_CS_343","Probepflanzen","MS2, S1 + S2","MS2","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Westen","Früchte"
+"86","18.12.2018","18.12.2018-130","TG18_MS1_CS_356","Früchte","MS1, Nordwand (Nord-Ost-Ecke)","MS1","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"87","18.12.2018","18.12.2018-146","TG18_MS1_CS_364","Frucht","MS2, untere Sandschicht Matte B (X2)","MS2","Hyphaene thebaica","Dumpalme","Frucht","vertrocknet","2018","Sueden","Früchte"
+"88","09.12.2018","9.12.2018-166","TG18_MS1_CS_074","Botanische Reste","MS2, Suederweiterung X2, obere Schicht","MS2",NA,"indeterminata","Same/Frucht","verkohlt","2018","Sueden",NA
+"89","10.12.2018","10.12.2018-118","TG18_MS1_CS_093","Kerne","MS2, M003 Ostseite","MS2",NA,"indeterminata","Wurzel","vertrocknet","2018","Westen",NA
+"90","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2",NA,"indeterminata","Wurzel","vertrocknet","2018","Westen",NA
+"91","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2",NA,"indeterminata","Wurzel","verkohlt","2018","Westen",NA
+"92","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2",NA,"indeterminata","Wurzel","verkohlt","2018","Westen",NA
+"93","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2",NA,"indeterminata","Wurzel","verkohlt","2018","Westen",NA
+"94","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2",NA,"indeterminata","Wurzel","verkohlt","2018","Westen",NA
+"95","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2",NA,"indeterminata","Halm","verkohlt","2018","Westen",NA
+"96","08.12.2018","8.12.2018-152","TG18_MS1_CS_039","Holzkohle","MS2, zw. Palmstamm und LZ-Verbruch","MS2",NA,"indeterminata","Frucht","vertrocknet","2018","Westen",NA
+"97","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2",NA,"indeterminata","Frucht","vertrocknet","2018","Sueden",NA
+"98","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2",NA,"indeterminata","Frucht","vertrocknet","2018","Westen",NA
+"99","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2",NA,"indeterminata","Halm","vertrocknet","2018","Sueden",NA
+"100","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2",NA,"indeterminata","Halm","vertrocknet","2018","Sueden",NA
+"101","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halm","vertrocknet","2018","Westen",NA
+"102","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Nord-Westen",NA
+"103","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Norden",NA
+"104","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Westen",NA
+"105","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Westen",NA
+"106","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Westen",NA
+"107","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Westen",NA
+"108","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Westen",NA
+"109","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Westen",NA
+"110","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Westen",NA
+"111","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Westen",NA
+"112","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2",NA,"indeterminata","Halmnodium","vertrocknet","2018","Sueden",NA
+"113","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Rinde","vertrocknet","2018","Westen",NA
+"114","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Rinde","vertrocknet","2018","Westen",NA
+"115","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Sueden",NA
+"116","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Sueden",NA
+"117","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Sueden",NA
+"118","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Nord-Osten",NA
+"119","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Nord-Osten",NA
+"120","16.12.2018","16.12.2018-117","TG18_MS1_CS_293","Blätter","MS2, zw. M003 und M008","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Nord-Osten",NA
+"121","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Norden",NA
+"122","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Norden",NA
+"123","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Norden",NA
+"124","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Blüte","vertrocknet","2018","Norden",NA
+"125","06.12.2018","6.12.2018-129","TG18_MS1_CS_019","Beere (nein)","MS1, 2. Osthaelfte","MS1",NA,"indeterminata","Gallum","vertrocknet","2018","Osten",NA
+"126","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2",NA,"indeterminata","Stiel","vertrocknet","2018","Nord-Westen",NA
+"127","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2",NA,"indeterminata","sonstiges","vertrocknet","2018","Westen",NA
+"128","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Juncus rigidus/acutus","steife/scharfe Binse","Blütenstand","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"129","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Juncus rigidus/acutus","steife/scharfe Binse","Blütenstand","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"130","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Juncus rigidus/acutus","steife/scharfe Binse","Blütenstand","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"131","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Juncus rigidus/acutus","steife/scharfe Binse","Blütenstand","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"132","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Juncus rigidus/acutus","steife/scharfe Binse","Blütenstand","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"133","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"134","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"135","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"136","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"137","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"138","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"139","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"140","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"141","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Brei/Gebäck/Fruchtfleisch","vertrocknet","2018","Westen","Hülsenfrüchte"
+"142","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Brei/Gebäck/Fruchtfleisch","vertrocknet","2018","Westen","Hülsenfrüchte"
+"143","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Brei/Gebäck/Fruchtfleisch","vertrocknet","2018","Westen","Hülsenfrüchte"
+"144","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lens culinaris","Linse","Brei/Gebäck/Fruchtfleisch","vertrocknet","2018","Westen","Hülsenfrüchte"
+"145","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Linum usitatissimum","Flachs","Same/Frucht","vertrocknet","2018","Norden","Faserpflanze"
+"146","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Sueden","Faserpflanze"
+"147","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Sueden","Faserpflanze"
+"148","13.12.2018","13.12.2018-135","TG18_MS1_CS_226","Hülsen und Zwiebelschalen","MS1, Nordwand aussen, Korbbefund","MS1","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Norden","Faserpflanze"
+"149","13.12.2018","13.12.2018-135","TG18_MS1_CS_226","Hülsen und Zwiebelschalen","MS1, Nordwand aussen, Korbbefund","MS1","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Norden","Faserpflanze"
+"150","13.12.2018","13.12.2018-135","TG18_MS1_CS_226","Hülsen und Zwiebelschalen","MS1, Nordwand aussen, Korbbefund","MS1","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Norden","Faserpflanze"
+"151","13.12.2018","13.12.2018-135","TG18_MS1_CS_226","Hülsen und Zwiebelschalen","MS1, Nordwand aussen, Korbbefund","MS1","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Norden","Faserpflanze"
+"152","13.12.2018","13.12.2018-135","TG18_MS1_CS_226","Hülsen und Zwiebelschalen","MS1, Nordwand aussen, Korbbefund","MS1","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Norden","Faserpflanze"
+"153","13.12.2018","13.12.2018-135","TG18_MS1_CS_226","Hülsen und Zwiebelschalen","MS1, Nordwand aussen, Korbbefund","MS1","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Norden","Faserpflanze"
+"154","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"155","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"156","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"157","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"158","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"159","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"160","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"161","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"162","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"163","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Westen","Faserpflanze"
+"164","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Nord-Osten","Faserpflanze"
+"165","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Linum usitatissimum","Flachs","Kapsel","vertrocknet","2018","Nord-Osten","Faserpflanze"
+"166","16.12.2018","16.12.2018-131","TG18_MS1_CS_302","Blätter","MS2, Osten von M006","MS2","Lupinus sp.","Lupine","Frucht","vertrocknet","2018","Osten","Hülsenfrüchte"
+"167","13.12.2018","13.12.2018-122","TG18_MS1_CS_216","Brot","MS1, in Flugsand, Nordbereich","MS1","Lupinus sp.","Lupine","Brei/Gebäck/Fruchtfleisch","vertrocknet","2018","Norden","Hülsenfrüchte"
+"168","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lupinus albus","Ägyptische Lupine","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"169","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Lupinus albus","Ägyptische Lupine","Same/Frucht","vertrocknet","2018","Westen","Hülsenfrüchte"
+"170","16.12.2018","16.12.2018-122","TG18_MS1_CS_297","Probe","MS2, zw. M004 und M008","MS2","Lupinus albus","Ägyptische Lupine","Frucht","vertrocknet","2018","Nord-Westen","Hülsenfrüchte"
+"171","08.12.2018","8.12.2018-152","TG18_MS1_CS_039","Holzkohle","MS2, zw. Palmstamm und LZ-Verbruch","MS2","Mimusops laurifolia","Persea-Baum","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"172","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Mimusops laurifolia","Persea-Baum","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"173","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Mimusops laurifolia","Persea-Baum","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"174","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Mimusops laurifolia","Persea-Baum","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"175","15.12.2018","15.12.2018-132","TG18_MS1_CS_270","Kerne","MS1, Suedwand aussen","MS1","Mimusops laurifolia","Persea-Baum","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"176","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Mimusops laurifolia","Persea-Baum","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"177","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Mimusops laurifolia","Persea-Baum","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"178","18.12.2018","18.12.2018-119","TG18_MS1_CS_351","Botanikprobe","MS1, Sued von Suedwand","MS1","Mimusops laurifolia","Persea-Baum","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"179","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"180","10.12.2018","10.12.2018-118","TG18_MS1_CS_093","Kerne","MS2, M003 Ostseite","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"181","10.12.2018","10.12.2018-138","TG18_MS1_CS_107","Holzstück und Kern","MS2, zw. M004 und Korb 10.12.2018-102","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"182","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"183","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"184","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"185","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"186","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"187","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"188","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"189","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"190","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"191","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"192","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"193","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"194","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"195","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"196","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"197","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"198","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"199","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"200","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"201","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"202","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"203","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"204","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"205","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"206","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"207","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"208","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"209","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"210","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"211","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"212","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"213","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"214","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"215","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"216","12.12.2018","12.12.2018-142","TG18_MS1_CS_196","Kerne","MS1, Ostwand oestlich","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"217","12.12.2018","12.12.2018-142","TG18_MS1_CS_196","Kerne","MS1, Ostwand oestlich","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"218","12.12.2018","12.12.2018-142","TG18_MS1_CS_196","Kerne","MS1, Ostwand oestlich","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"219","13.12.2018","13.12.2018-162","TG18_MS1_CS_239","Früchte, Kerne, Zwiebelschale","MS2, Westen von M005, M006, M008","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"220","15.12.2018","15.12.2018-114","TG18_MS1_CS_263","Kerne","MS2, S1 + S3","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"221","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"222","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"223","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"224","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"225","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"226","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"227","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"228","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"229","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"230","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"231","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"232","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"233","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"234","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"235","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"236","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"237","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"238","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"239","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"240","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"241","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"242","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"243","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"244","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"245","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"246","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"247","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"248","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"249","17.12.2018","17.12.2018-144","TG18_MS1_CS_338","Botanikprobe","MS2, Sandschicht ueber Matte B","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"250","17.12.2018","17.12.2018-144","TG18_MS1_CS_338","Botanikprobe","MS2, Sandschicht ueber Matte B","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"251","17.12.2018","17.12.2018-144","TG18_MS1_CS_338","Botanikprobe","MS2, Sandschicht ueber Matte B","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"252","17.12.2018","17.12.2018-144","TG18_MS1_CS_338","Botanikprobe","MS2, Sandschicht ueber Matte B","MS2","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"253","18.12.2018","18.12.2018-119","TG18_MS1_CS_351","Botanikprobe","MS1, Sued von Suedwand","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"254","18.12.2018","18.12.2018-119","TG18_MS1_CS_351","Botanikprobe","MS1, Sued von Suedwand","MS1","Olea europaea","Olive","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"255","15.12.2018","15.12.2018-116","TG18_MS1_CS_264","Holzkohle","MS2, S1+S2","MS2","Olea europaea","Olive","Frucht","verkohlt","2018","Westen","Früchte"
+"256","15.12.2018","15.12.2018-132","TG18_MS1_CS_270","Kerne","MS1, Suedwand aussen","MS1","Olea europaea","Olive","Frucht","verkohlt","2018","Sueden","Früchte"
+"257","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"258","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"259","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"260","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"261","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"262","09.12.2018","9.12.2018-132","TG18_MS1_CS_052","Stoffreste","MS1, Nordwand, Streufund","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"263","09.12.2018","9.12.2018-170","TG18_MS1_CS_077","Dattel- und Pfirsichkern","MS2, Osten von M005, M009","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"264","09.12.2018","9.12.2018-170","TG18_MS1_CS_077","Dattel- und Pfirsichkern","MS2, Osten von M005, M009","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"265","09.12.2018","9.12.2018-170","TG18_MS1_CS_077","Dattel- und Pfirsichkern","MS2, Osten von M005, M009","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"266","09.12.2018","9.12.2018-170","TG18_MS1_CS_077","Dattel- und Pfirsichkern","MS2, Osten von M005, M009","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"267","09.12.2018","9.12.2018-170","TG18_MS1_CS_077","Dattel- und Pfirsichkern","MS2, Osten von M005, M009","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"268","09.12.2018","9.12.2018-170","TG18_MS1_CS_077","Dattel- und Pfirsichkern","MS2, Osten von M005, M009","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"269","09.12.2018","9.12.2018-170","TG18_MS1_CS_077","Dattel- und Pfirsichkern","MS2, Osten von M005, M009","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"270","09.12.2018","9.12.2018-171","TG18_MS1_CS_078","Dattelkern (?)","MS2, Westen von M005","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"271","10.12.2018","10.12.2018-118","TG18_MS1_CS_093","Kerne","MS2, M003 Ostseite","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"272","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"273","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"274","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"275","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"276","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"277","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"278","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"279","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"280","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"281","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"282","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"283","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"284","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"285","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"286","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"287","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"288","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"289","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"290","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"291","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"292","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"293","10.12.2018","10.12.2018-279","TG18_MS1_CS_128","Samen und Pflanzenreste","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"294","11.12.2018","11.12.2018-168","TG18_MS1_CS_151","Kerne","MS2, auf Lehmzigelverbruch","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"295","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"296","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"297","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"298","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"299","11.12.2018","11.12.2018-188","TG18_MS1_CS_161","Kerne","MS2, Westen von M007","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"300","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"301","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"302","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"303","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"304","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"305","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"306","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"307","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"308","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"309","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"310","11.12.2018","11.12.2018-190","TG18_MS1_CS_163","Kerne","MS2, ausserhalb Sued-Ost-Ecke","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sued-Osten","Früchte"
+"311","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"312","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"313","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"314","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"315","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"316","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"317","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"318","12.12.2018","12.12.2018-104","TG18_MS1_CS_174","Kerne","MS2, Mauerkrone M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"319","12.12.2018","12.12.2018-137","TG18_MS1_CS_192","Kern","MS2, Sueden zw. M004&M006","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"320","12.12.2018","12.12.2018-142","TG18_MS1_CS_196","Kerne","MS1, Ostwand oestlich","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"321","12.12.2018","12.12.2018-142","TG18_MS1_CS_196","Kerne","MS1, Ostwand oestlich","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"322","12.12.2018","12.12.2018-142","TG18_MS1_CS_196","Kerne","MS1, Ostwand oestlich","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Osten","Früchte"
+"323","13.12.2018","13.12.2018-126","TG18_MS1_CS_219","Kern","MS2, Osten von M004","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"324","13.12.2018","13.12.2018-145","TG18_MS1_CS_231","Frucht, Kerne, Zwiebelschale","MS1, Suedwand aussen","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"325","13.12.2018","13.12.2018-145","TG18_MS1_CS_231","Frucht, Kerne, Zwiebelschale","MS1, Suedwand aussen","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"326","13.12.2018","13.12.2018-162","TG18_MS1_CS_239","Früchte, Kerne, Zwiebelschale","MS2, Westen von M005, M006, M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"327","13.12.2018","13.12.2018-162","TG18_MS1_CS_239","Früchte, Kerne, Zwiebelschale","MS2, Westen von M005, M006, M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"328","13.12.2018","13.12.2018-162","TG18_MS1_CS_239","Früchte, Kerne, Zwiebelschale","MS2, Westen von M005, M006, M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"329","13.12.2018","13.12.2018-162","TG18_MS1_CS_239","Früchte, Kerne, Zwiebelschale","MS2, Westen von M005, M006, M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"330","15.12.2018","15.12.2018-132","TG18_MS1_CS_270","Kerne","MS1, Suedwand aussen","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"331","15.12.2018","15.12.2018-132","TG18_MS1_CS_270","Kerne","MS1, Suedwand aussen","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"332","15.12.2018","15.12.2018-143","TG18_MS1_CS_279","Kern","MS2, um M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"333","16.12.2018","16.12.2018-112","TG18_MS1_CS_291","Kern","MS2, Sued-Ost von M006","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"334","16.12.2018","16.12.2018-122","TG18_MS1_CS_297","Probe","MS2, zw. M004 und M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"335","16.12.2018","16.12.2018-122","TG18_MS1_CS_297","Probe","MS2, zw. M004 und M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"336","16.12.2018","16.12.2018-122","TG18_MS1_CS_297","Probe","MS2, zw. M004 und M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"337","16.12.2018","16.12.2018-122","TG18_MS1_CS_297","Probe","MS2, zw. M004 und M008","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Westen","Früchte"
+"338","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"339","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"340","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"341","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"342","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"343","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"344","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"345","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"346","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"347","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"348","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"349","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"350","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"351","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"352","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"353","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"354","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"355","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"356","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"357","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"358","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"359","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"360","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"361","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"362","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"363","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"364","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"365","16.12.2018","16.12.2018-134","TG18_MS1_CS_305","Kerne und Früchte","MS2, zw. M004, M006 und Matte","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"366","16.12.2018","16.12.2018-136","TG18_MS1_CS_307","Dattelkome (?)","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"367","16.12.2018","16.12.2018-136","TG18_MS1_CS_307","Dattelkome (?)","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"368","16.12.2018","16.12.2018-136","TG18_MS1_CS_307","Dattelkome (?)","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"369","16.12.2018","16.12.2018-136","TG18_MS1_CS_307","Dattelkome (?)","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"370","16.12.2018","16.12.2018-136","TG18_MS1_CS_307","Dattelkome (?)","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"371","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"372","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"373","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"374","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"375","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"376","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"377","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"378","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"379","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"380","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"381","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"382","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"383","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"384","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"385","16.12.2018","16.12.2018-146","TG18_MS1_CS_311","Botanikprobe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Westen","Früchte"
+"386","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"387","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"388","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"389","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"390","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"391","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"392","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"393","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"394","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"395","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"396","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"397","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"398","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"399","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"400","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"401","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"402","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"403","18.12.2018","18.12.2018-119","TG18_MS1_CS_351","Botanikprobe","MS1, Sued von Suedwand","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"404","18.12.2018","18.12.2018-119","TG18_MS1_CS_351","Botanikprobe","MS1, Sued von Suedwand","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"405","18.12.2018","18.12.2018-119","TG18_MS1_CS_351","Botanikprobe","MS1, Sued von Suedwand","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"406","18.12.2018","18.12.2018-119","TG18_MS1_CS_351","Botanikprobe","MS1, Sued von Suedwand","MS1","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"407","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"408","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"409","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"410","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"411","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"412","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"413","19.12.2018","19.12.2018-110","TG18_MS1_CS_375","Kern und Frucht","MS2, auf Matte A, im Sueden","MS2","Phoenix dactylifera","Dattelpalme","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"414","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Pinus pinea","Pinie","Perikarp","vertrocknet","2018","Norden","Nüsse"
+"415","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Poaceae sp.","Süßgräser","Halmnodium","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"416","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Poaceae sp.","Süßgräser","Halmnodium","vertrocknet","2018","Norden","wildwachsende Pflanzen"
+"417","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2","Poaceae sp.","Süßgräser","Halmnodium","vertrocknet","2018","Westen","wildwachsende Pflanzen"
+"418","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Poaceae sp.","Süßgräser","Halm","vertrocknet","2018","Westen","wildwachsende Pflanzen"
+"419","09.12.2018","9.12.2018-170","TG18_MS1_CS_077","Dattel- und Pfirsichkern","MS2, Osten von M005, M009","MS2","Prunus persica","Pfirsichbaum","Same/Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"420","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Prunus persica","Pfirsichbaum","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"421","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Prunus persica","Pfirsichbaum","Same/Frucht","vertrocknet","2018","Sueden","Früchte"
+"422","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Prunus persica","Pfirsichbaum","Same/Frucht","vertrocknet","2018","Norden","Früchte"
+"423","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Prunus spinosa","Schlehe","Frucht","vertrocknet","2018","Nord-Osten","wildwachsende Pflanzen"
+"424","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Prunus spinosa","Schlehe","Same/Frucht","vertrocknet","2018","Nord-Osten","wildwachsende Pflanzen"
+"425","08.12.2018","8.12.2018-111","TG18_MS1_CS_027","Granatapfel","MS2, im Westen von M005","MS2","Punica sp.","Granatäpfel","Frucht","vertrocknet","2018","Nord-Osten","Früchte"
+"426","16.12.2018","16.12.2018-122","TG18_MS1_CS_297","Probe","MS2, zw. M004 und M008","MS2","Scirpus tuberosus","Binse","Fruchtstand","vertrocknet","2018","Nord-Westen","wildwachsende Pflanzen"
+"427","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Scirpus tuberosus","Binse","Fruchtstand","vertrocknet","2018","Norden","wildwachsende Pflanzen"
+"428","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Scirpus tuberosus","Binse","Same/Frucht","vertrocknet","2018","Sueden","wildwachsende Pflanzen"
+"429","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Trifolium alexandrinum","Alexandriner Klee","Same/Frucht","verkohlt","2018","Norden","Hülsenfrüchte"
+"430","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Trifolium alexandrinum","Alexandriner Klee","Blütenstand","vertrocknet","2018","Sueden","Hülsenfrüchte"
+"431","10.12.2018","10.12.2018-158","TG18_MS1_CS_119","Samen","MS2, Suederweiterung X2, obere Schicht","MS2","Trifolium alexandrinum","Alexandriner Klee","Blütenstand","vertrocknet","2018","Sueden","Hülsenfrüchte"
+"432","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Trifolium alexandrinum","Alexandriner Klee","Blütenstand","vertrocknet","2018","Norden","Hülsenfrüchte"
+"433","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Trifolium alexandrinum","Alexandriner Klee","Blütenstand","vertrocknet","2018","Nord-Osten","Hülsenfrüchte"
+"434","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Triticum dicoccum","Emmer","Ähre","vertrocknet","2018","Norden","Getreide"
+"435","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Triticum dicoccum","Emmer","Ähre","vertrocknet","2018","Nord-Osten","Getreide"
+"436","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Triticum turgidum ssp. Durum","Hartweizen","Ähre","vertrocknet","2018","Nord-Osten","Getreide"
+"437","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Triticum turgidum ssp. Durum","Hartweizen","Ährenbase","vertrocknet","2018","Nord-Osten","Getreide"
+"438","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Norden","Getreide"
+"439","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Norden","Getreide"
+"440","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Norden","Getreide"
+"441","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Norden","Getreide"
+"442","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Norden","Getreide"
+"443","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Nord-Osten","Getreide"
+"444","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Nord-Osten","Getreide"
+"445","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Nord-Osten","Getreide"
+"446","16.12.2018","16.12.2018-149","TG18_MS1_CS_313","Kerne, Früchte, Zwiebelschale","MS1, Nordwand aussen, nahe Nord-Ost-Ecke","MS1","Triticum turgidum ssp. Durum","Hartweizen","Spindelglied","vertrocknet","2018","Nord-Osten","Getreide"
+"447","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Vitis cf. vinifera","Weinrebe (uns.)","Rachis","vertrocknet","2018","Sueden","Früchte"
+"448","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Vitis cf. vinifera","Weinrebe (uns.)","Rachis","vertrocknet","2018","Sueden","Früchte"
+"449","10.12.2018","10.12.2018-171","TG18_MS1_CS_124","Korbstücke","MS2, Suederweiterung X2, obere Schicht","MS2","Vitis cf. vinifera","Weinrebe (uns.)","Rachis","vertrocknet","2018","Sueden","Früchte"
+"450","08.12.2018","8.12.2018-152","TG18_MS1_CS_039","Holzkohle","MS2, zw. Palmstamm und LZ-Verbruch","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"451","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Nord-Westen",NA
+"452","09.12.2018","9.12.2018-108","TG18_MS1_CS_043","Holz- und Palmholzstücke","MS2, in Schnitt X3, Aushub nach Westen hin","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Nord-Westen",NA
+"453","09.12.2018","9.12.2018-108","TG18_MS1_CS_043","Holz- und Palmholzstücke","MS2, in Schnitt X3, Aushub nach Westen hin","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Nord-Westen",NA
+"454","09.12.2018","9.12.2018-108","TG18_MS1_CS_043","Holz- und Palmholzstücke","MS2, in Schnitt X3, Aushub nach Westen hin","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Nord-Westen",NA
+"455","09.12.2018","9.12.2018-127","TG18_MS1_CS_049","Fruchtstiel","MS2, Westen von M004","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"456","09.12.2018","9.12.2018-140","TG18_MS1_CS_056","Samen (?)","MS2, Westen von M006","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Nord-Westen",NA
+"457","10.12.2018","10.12.2018-124","TG18_MS1_CS_097","Holz und Frucht","MS1, Nordwand in Korbbefund","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Norden",NA
+"458","10.12.2018","10.12.2018-124","TG18_MS1_CS_097","Holz und Frucht","MS1, Nordwand in Korbbefund","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Norden",NA
+"459","10.12.2018","10.12.2018-124","TG18_MS1_CS_097","Holz und Frucht","MS1, Nordwand in Korbbefund","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Norden",NA
+"460","10.12.2018","10.12.2018-138","TG18_MS1_CS_107","Holzstück und Kern","MS2, zw. M004 und Korb 10.12.2018-102","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"461","12.12.2018","12.12.2018-143","TG18_MS1_CS_197","Holz- und Rohrstücke","MS1, Ostwand oestlich","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Osten",NA
+"462","12.12.2018","12.12.2018-143","TG18_MS1_CS_197","Holz- und Rohrstücke","MS1, Ostwand oestlich","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Osten",NA
+"463","12.12.2018","12.12.2018-143","TG18_MS1_CS_197","Holz- und Rohrstücke","MS1, Ostwand oestlich","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Osten",NA
+"464","12.12.2018","12.12.2018-143","TG18_MS1_CS_197","Holz- und Rohrstücke","MS1, Ostwand oestlich","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Osten",NA
+"465","12.12.2018","12.12.2018-143","TG18_MS1_CS_197","Holz- und Rohrstücke","MS1, Ostwand oestlich","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Osten",NA
+"466","12.12.2018","12.12.2018-143","TG18_MS1_CS_197","Holz- und Rohrstücke","MS1, Ostwand oestlich","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Osten",NA
+"467","12.12.2018","12.12.2018-143","TG18_MS1_CS_197","Holz- und Rohrstücke","MS1, Ostwand oestlich","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Osten",NA
+"468","13.12.2018","13.12.2018-146","TG18_MS1_CS_232","Holz","MS1, Suedwand aussen","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Sueden",NA
+"469","13.12.2018","13.12.2018-146","TG18_MS1_CS_232","Holz","MS1, Suedwand aussen","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Sueden",NA
+"470","13.12.2018","13.12.2018-146","TG18_MS1_CS_232","Holz","MS1, Suedwand aussen","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Sueden",NA
+"471","13.12.2018","13.12.2018-183","TG18_MS1_CS_248","Holzstück und Palmenfrüchte","MS1, Ostwand aussen","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Osten",NA
+"472","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Norden",NA
+"473","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Norden",NA
+"474","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Norden",NA
+"475","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Norden",NA
+"476","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"477","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"478","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"479","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"480","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"481","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"482","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"483","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"484","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"485","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"486","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"487","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"488","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"489","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"490","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"491","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"492","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"493","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"494","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"495","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"496","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"497","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"498","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"499","16.12.2018","16.12.2018-165","TG18_MS1_CS_320","Holz, Früchte, Dompalmenfrucht","MS2, Sued-Ost von M009","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Nord-Osten",NA
+"500","16.12.2018","16.12.2018-165","TG18_MS1_CS_320","Holz, Früchte, Dompalmenfrucht","MS2, Sued-Ost von M009","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Nord-Osten",NA
+"501","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"502","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"503","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"504","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"505","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"506","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"507","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"508","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"509","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"510","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"511","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"512","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"513","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"514","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"515","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"516","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"517","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"518","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"519","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"520","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"521","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"522","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"523","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"524","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"525","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"526","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"527","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"528","17.12.2018","17.12.2018-107","TG18_MS1_CS_326","Holz und andere Botanik","MS2, Matte rs (?)","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Westen",NA
+"529","18.12.2018","18.12.2018-131","TG18_MS1_CS_357","bearbeitetes Holz","MS1, Nordwand (Nord-Ost-Ecke)","MS1",NA,"indeterminata","Holz","vertrocknet","2018","Nord-Osten",NA
+"530","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Sueden",NA
+"531","19.12.2018","19.12.2018-105","TG18_MS1_CS_372","Botanikprobe","MS2, X2 Suederweiterung","MS2",NA,"indeterminata","Holz","vertrocknet","2018","Sueden",NA
+"532","11.12.2018","11.12.2018-155","TG18_MS1_CS_147","bearbeitetes Holz (L-Form)","MS2, auf Lehmzigelverbruch","MS2",NA,"indeterminata","bearbeitetes Holz","vertrocknet","2018","Westen",NA
+"533","17.12.2018","17.12.2018-139","TG18_MS1_CS_336","Werkzeuggriff","MS2, Aushub X1 zu M005","MS2",NA,"indeterminata","bearbeitetes Holz","vertrocknet","2018","Westen",NA
+"534","08.12.2018","8.12.2018-152","TG18_MS1_CS_039","Holzkohle","MS2, zw. Palmstamm und LZ-Verbruch","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"535","08.12.2018","8.12.2018-152","TG18_MS1_CS_039","Holzkohle","MS2, zw. Palmstamm und LZ-Verbruch","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"536","08.12.2018","8.12.2018-152","TG18_MS1_CS_039","Holzkohle","MS2, zw. Palmstamm und LZ-Verbruch","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"537","08.12.2018","8.12.2018-152","TG18_MS1_CS_039","Holzkohle","MS2, zw. Palmstamm und LZ-Verbruch","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"538","09.12.2018","9.12.2018-107","TG18_MS1_CS_042","Datteln, Dompalme, Kerne Früchte","MS2, in Schnitt X3, Aushub nach Westen hin","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Nord-Westen",NA
+"539","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"540","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"541","10.12.2018","10.12.2018-114","TG18_MS1_CS_091","Verkohltes Holz und Früchte","MS2, bot. Befund im Sued-Ost von M004","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"542","12.12.2018","12.12.2018-107","TG18_MS1_CS_175","Holzkohle","MS2, Mauerkrone M004","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"543","15.12.2018","15.12.2018-114","TG18_MS1_CS_263","Kerne","MS2, S1 + S3","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"544","15.12.2018","15.12.2018-116","TG18_MS1_CS_264","Holzkohle","MS2, S1+S2","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"545","15.12.2018","15.12.2018-116","TG18_MS1_CS_264","Holzkohle","MS2, S1+S2","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"546","15.12.2018","15.12.2018-116","TG18_MS1_CS_264","Holzkohle","MS2, S1+S2","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"547","15.12.2018","15.12.2018-116","TG18_MS1_CS_264","Holzkohle","MS2, S1+S2","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Westen",NA
+"548","17.12.2018","17.12.2018-144","TG18_MS1_CS_338","Botanikprobe","MS2, Sandschicht ueber Matte B","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Osten",NA
+"549","17.12.2018","17.12.2018-144","TG18_MS1_CS_338","Botanikprobe","MS2, Sandschicht ueber Matte B","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Osten",NA
+"550","17.12.2018","17.12.2018-144","TG18_MS1_CS_338","Botanikprobe","MS2, Sandschicht ueber Matte B","MS2",NA,"indeterminata","Holzkohle","verkohlt","2018","Osten",NA
+"551","09.12.2018","9.12.2018-108","TG18_MS1_CS_043","Holz- und Palmholzstücke","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Arecaceae","Palmengewächs","Rinde","vertrocknet","2018","Nord-Westen","Früchte"
+"552","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Arecaceae","Palmengewächs","Rinde","vertrocknet","2018","Norden","Früchte"
+"553","09.12.2018","9.12.2018-108","TG18_MS1_CS_043","Holz- und Palmholzstücke","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Arecaceae","Palmengewächs","Holz","vertrocknet","2018","Nord-Westen","Früchte"
+"554","09.12.2018","9.12.2018-108","TG18_MS1_CS_043","Holz- und Palmholzstücke","MS2, in Schnitt X3, Aushub nach Westen hin","MS2","Arecaceae","Palmengewächs","Bast","vertrocknet","2018","Nord-Westen","Früchte"
+"555","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Arecaceae","Palmengewächs","Blüte","vertrocknet","2018","Norden","Früchte"
+"556","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Arecaceae","Palmengewächs","Blüte","vertrocknet","2018","Norden","Früchte"
+"557","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Arecaceae","Palmengewächs","Blüte","vertrocknet","2018","Norden","Früchte"
+"558","16.12.2018","16.12.2018-138","TG18_MS1_CS_308","Botanikprobe","MS2, zw. M008 und Suedwand","MS2","Arecaceae","Palmengewächs","Blüte","vertrocknet","2018","Norden","Früchte"
+"559","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Arecaceae","Palmengewächs","Blüte","vertrocknet","2018","Westen","Früchte"
+"560","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Arecaceae","Palmengewächs","Blüte","vertrocknet","2018","Westen","Früchte"
+"561","16.12.2018","16.12.2018-155","TG18_MS1_CS_316","Probe","MS2, Osten von M004 (Norden von 10.12.2018-102)","MS2","Arecaceae","Palmengewächs","Blüte","vertrocknet","2018","Westen","Früchte"
